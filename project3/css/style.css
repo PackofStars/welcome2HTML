@@ -2,9 +2,11 @@ body {
   background-color: #ca523d;
   font-family: Arial, sans-serif;
   margin: 10px;
+  margin-top: 0;
   padding: 0;
-  height: 1500px;
+  height:1500px;
 }
+
 :root {
   --bs-heading-color: #f30404; /* or any color you want */
 }
